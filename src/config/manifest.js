@@ -1,0 +1,15 @@
+var Manifest = [
+	{src:'./img/first_background.png', id:'first_background'},
+	{src:'./img/start_stick.png', id:'start_stick'},
+	{src:'./img/bonus_draw_text.png', id:'bonus_draw_text'},
+	{src:'./img/hook_symbol.png', id:'hook_symbol'},
+	{src:'./img/house_symbol.png', id:'house_symbol'},
+	{src:'./img/coin_symbol.png', id:'coin_symbol'},
+	{src:'./img/stars_animation.png', id:'stars_animation'},
+	{src:'./img/second_background.png', id:'second_background'},
+	{src:'./img/header_text.png', id:'header_text'},
+	{src:'./img/footer_image.png', id:'footer_image'},
+	{src:'./img/second_background.png', id:'second_background'},
+	{src:'./img/hook.png', id:'hook'},
+	{src:'./img/animals.png', id:'animals'},
+];
